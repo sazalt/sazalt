@@ -21,16 +21,16 @@ I build software where the details stay quiet and the architecture does the talk
 
 <!-- TODO: обновляй этот блок раз в пару месяцев, держи до трёх строк. -->
 
-- Building `project one` — <!-- TODO: одна строка: что делаешь и зачем -->
-- Learning <!-- TODO: technology or domain -->
-- Open to <!-- TODO: collaboration / contract work / coffee -->
+<!-- - Building `project one` - <!-- TODO: одна строка: что делаешь и зачем -->
+<!-- - Learning <!-- TODO: technology or domain -->
+<!-- - Open to <!-- TODO: collaboration / contract work / coffee -->
 
 ## Elsewhere
 
 <!-- TODO: оставь только нужные строки, порядок = важность. -->
 
-<!-- - Blog — [sazalt.dev](https://sazalt.dev) TODO: реальная ссылка или убери строку -->
-<!-- - X / Twitter — [@sazalt](https://x.com/sazalt) TODO: проверь, свободен ли хэндл, или убери -->
+<!-- - Blog — [sazalt.dev](https://sazalt.dev) <!-- TODO: реальная ссылка или убери строку -->
+<!-- - X / Twitter — [@sazalt](https://x.com/sazalt) <!-- TODO: проверь, свободен ли хэндл, или убери -->
  <!-- TODO: добавь LinkedIn, Telegram, RSS — по одному на строку, шаблон: - Название — ссылка -->
 
 
